@@ -14,7 +14,8 @@ I'm very dependent on the Remote Desktop service, so I will keep updating to sup
 
 Now update to Windows 10（X64）：
 
-1. os：10.0.19042.685 | termsrv.dll：10.0.19041.662 | 2021-1-10
+* os：10.0.19042.746 | termsrv.dll：10.0.19041.746 | 2021-1-17
+* os：10.0.19042.685 | termsrv.dll：10.0.19041.662 | 2021-1-10
 
 
 # Support me
