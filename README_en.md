@@ -14,7 +14,7 @@ I'm very dependent on the Remote Desktop service, so I will keep updating to sup
 
 Now update to Windows 10（X64）：
 
-* os：xxxx | termsrv.dll: 10.0.19041.1023 | 2021-6-6
+* os：10.0.19042.1052 | termsrv.dll: 10.0.19041.1023 | 2021-6-6
 * fix bug: not support error but rdpwrap.ini has the config of the right version | 2021-5-13
 * os：10.0.19042.985 | termsrv.dll: 10.0.19041.964 | 2021-5-12
 * os：10.0.18363.1379 | termsrv.dll: 10.0.18362.1316 | 2021-2-27
