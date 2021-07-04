@@ -12,6 +12,10 @@ I'm very dependent on the Remote Desktop service, so I will keep updating to sup
 
 # update
 
+Support Windows 11 co_release.
+
+* os：10.0.22000.51 (**windowns11**) | termsrv.dll: 10.0.22000.1 | 2021-7-5
+
 Now update to Windows 10（X64）：
 
 * os：10.0.19042.1052 | termsrv.dll: 10.0.19041.1023 | 2021-6-6
