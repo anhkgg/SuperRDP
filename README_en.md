@@ -14,6 +14,7 @@ I'm very dependent on the Remote Desktop service, so I will keep updating to sup
 
 Support Windows 11 co_release.
 
+* os：10.0.22483.1000 (**win11 dev**) | termsrv.dll: 10.0.22483.1000 | 2021-10-22
 * os：10.0.22471.1000 (**win11 dev**) | termsrv.dll: 10.0.22471.1000 | 2021-10-5
 * os：10.0.22468.1000 (**win11 dev**) | termsrv.dll: 10.0.22468.1000 | 2021-10-1
 * os：10.0.22463.1000 (**win11 dev**) | termsrv.dll: 10.0.22463.1000 | 2021-9-28
