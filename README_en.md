@@ -23,6 +23,7 @@ Support Windows 11 co_release.
 
 Now update to Windows 10（X64）：
 
+* os：10.0.19041.xxxx | termsrv.dll: 10.0.19041.1320 | 2021-10-30
 * os：10.0.20348.261 | termsrv.dll: 10.0.20348.261 | 2021-10-1
 * os: 10.0.19042.1237 | termsrv.dll: 10.0.19041.1202 | 2021-9-16
 * os: 10.0.1836x.xxxx | termsrv.dll: 10.0.18362.1553 | 2021-8-13
