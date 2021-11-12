@@ -12,6 +12,7 @@ I'm very dependent on the Remote Desktop service, so I will keep updating to sup
 
 # update
 
+* termsrv.dll: 10.0.22499.1000 | 2021-11-12
 * termsrv.dll: 10.0.19041.1348 | 2021-11-11
 * os：10.0.22000.318 | termsrv.dll: 10.0.22000.318 | 2021-11-10
 
