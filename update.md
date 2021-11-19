@@ -1,4 +1,6 @@
 
+* you can reinstall SuperRDP by `SuperRDP.exe udpate`, not need use option 2 and option 1 to update. Also you can use `SuperRDP_update.bat`.
+
 * termsrv.dll: 10.0.18362.1 | 2021-11-19
 * termsrv.dll: 10.0.22504.1000 | 2021-11-19
 * termsrv.dll: 10.0.17763.2300 | 2021-11-19
