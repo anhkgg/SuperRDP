@@ -1,5 +1,9 @@
 # SuperRDP
 
+[SuperRDP2](https://raw.githubusercontent.com/anhkgg/SuperRDP/main/bin/SuperRDP2.zip)来了。
+
+**自动支持新版远程桌面， 欢迎使用！**
+
 [English](README.md)
 
 众所周知，Windows家庭版无法使用远程桌面，`RDP Wrapper Library`就是用于恢复家庭版该部分阉割的功能。

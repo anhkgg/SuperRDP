@@ -1,5 +1,11 @@
 # SuperRDP
 
+[SuperRDP2](https://raw.githubusercontent.com/anhkgg/SuperRDP/main/bin/SuperRDP2.zip) is coming.
+
+**Automatic support for the latest version of Remote Desktop**.
+
+**Enjoy it!**
+
 [中文](README_cn.md)
 
 SuperRDP is a new version rdpwarp base on the [rdpwrap](https://github.com/stascorp/rdpwrap) by [stascorp](https://github.com/stascorp).
