@@ -4,6 +4,8 @@
 
 **自动支持新版远程桌面， 欢迎使用！**
 
+[SuperRDP2使用帮助](superrdp2_help_cn.md)
+
 [English](README.md)
 
 众所周知，Windows家庭版无法使用远程桌面，`RDP Wrapper Library`就是用于恢复家庭版该部分阉割的功能。

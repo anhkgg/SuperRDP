@@ -6,6 +6,8 @@
 
 **Enjoy it!**
 
+[SuperRDP2 help](superrdp2_help.md)
+
 [中文](README_cn.md)
 
 SuperRDP is a new version rdpwarp base on the [rdpwrap](https://github.com/stascorp/rdpwrap) by [stascorp](https://github.com/stascorp).
