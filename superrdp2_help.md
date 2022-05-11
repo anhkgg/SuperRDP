@@ -1,3 +1,5 @@
+[国内帮助在这里](superrdp2_help_cn.md)
+
 You can use SuperRDP2 by the two methods：
 
 1. click Sync lastest config, get the lastest config file. If supported, it will auto install.
