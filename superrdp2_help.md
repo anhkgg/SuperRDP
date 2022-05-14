@@ -8,4 +8,4 @@ You can use SuperRDP2 by the two methods：
 
 **how to get code**
 
-Add `anhkgg` by Wechat, show your computer time, I will give you the code. 
+Click the link button: `How to get code?` Then you can find the code.
