@@ -4,7 +4,7 @@
 
 **Automatic support for the latest version of Remote Desktop**.
 
-**Enjoy it!**
+**Enjoy it! Remember to check the box of AutoSupport**
 
 [SuperRDP2 help](superrdp2_help.md)
 
