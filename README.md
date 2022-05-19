@@ -6,9 +6,9 @@
 
 **Enjoy it! Remember to check the box of AutoSupport**
 
-[SuperRDP2 help](superrdp2_help.md)
+[SuperRDP2 help](superrdp2_help.md) and [video for usage](https://www.youtube.com/watch?v=2_rBfUYNjxo)
 
-[国内帮助在这里](superrdp2_help_cn.md)
+[国内帮助在这里](superrdp2_help_cn.md) 和 [简单操作视频](https://www.bilibili.com/video/BV1T54y1Z7TB/)
 
 [中文](README_cn.md)
 
