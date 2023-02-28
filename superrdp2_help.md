@@ -6,6 +6,8 @@ You can use SuperRDP2 by the two methods：
 2. If not supported，click checkbox AutoSupport, SuperRDP2 will auto analyze and support Termsrv.
 3. If also not supported，please upload c:\windows\system\termsrv.dll to [github issue](https://github.com/anhkgg/SuperRDP/issues/new)
 
-**how to get code**
+~~**how to get code**~~
 
-Click the link button: `How to get code?` Then you can find the code.
+~~Click the link button: `How to get code?` Then you can find the code.~~
+
+Just run it and no code needed.
